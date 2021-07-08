@@ -1,0 +1,25 @@
+* {
+    background-color: aqua;
+    color: black;
+}
+
+img {
+    display: inline;
+    width: 50%;
+    height: 50%;
+}
+
+h1 {
+    font-size: 22px;
+    text-align: center;
+}
+
+h2,
+h3 {
+    font-size: 18px;
+    color: red;
+}
+
+ul {
+    list-style-type: none;
+}
